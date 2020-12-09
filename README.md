@@ -3,6 +3,9 @@
 Blinkit for æternity | IOT, Arduino Blinkit version compatible with Heltec WIFI kit 8 / ESP8266 boards
 
 
+![](https://i.imgur.com/NZ5Xq8e.png)
+
+
 ## Installation instructions
 
 - Download and install the [Arduino IDE](https://www.arduino.cc/en/software)
